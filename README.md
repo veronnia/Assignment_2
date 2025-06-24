@@ -1,3 +1,2 @@
 # Assignment_2
-This is my second assignment from the odin project, this is an application of the flex. I made 2 version indicated by v1 for version 1 and v2 for verison 2.
-the html file of version 1 is called index.html for reasons related to the odin project.
+This is my second assignment from The Odin Project. It’s an application that focuses on practicing Flexbox. The initial solution is saved without any numbers in the file name. The updated solution is a refined attempt aimed at improving both functionality and visual design.
